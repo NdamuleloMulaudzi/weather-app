@@ -8,6 +8,5 @@ async function getWeatherData(locationName){
     console.log(weatherData)
 }
 
-getWeatherData("London")
 
 export {getWeatherData}
